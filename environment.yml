@@ -1,0 +1,20 @@
+name: eae253
+channels:
+- conda-forge
+- defaults
+dependencies:
+- python=3.9.17
+- numpy
+- pandas
+- matplotlib
+- pip=22.2.2
+- jupyterhub
+- jupyterlab
+- nodejs
+- nb_conda_kernels
+- requests
+- xmltodict
+- openpyxl
+- xlrd
+- pip:
+- notebook==6.4.8

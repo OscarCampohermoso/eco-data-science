@@ -1,0 +1,26 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[dev-packages]
+
+[packages]
+ipykernel = "*"
+jupyterhub = "*"
+jupyterlab = "*"
+nodejs = "*"
+requests = "*"
+pandas = "*"
+numpy = "*"
+matplotlib = "*"
+openpyxl = "*"
+xmltodict = "*"
+xlrd = "*"
+lxml = "*"
+html5lib = "*"
+
+
+[requires]
+python_version = "3.9.7"
+pip_version = "22.2.2"

@@ -1,0 +1,20 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[packages]
+numpy = "==1.25.0"
+pandas = "==1.4.0"
+voila = "==0.3.6"
+scipy = "==1.10.0"
+ipykernel = "==6.17.0"
+ipywidgets = "==7.7.0"
+notebook = "==6.4.0"
+bqplot = "*"
+matplotlib = "*"
+pipfile = "*"
+
+[requires]
+python_version = "3.9.7"
+pip_version = "22.2.2"

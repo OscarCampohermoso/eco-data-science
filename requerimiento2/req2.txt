@@ -1,0 +1,6 @@
+
+    El total de inversiones directas de FFMM en nuestra empresa es 178.03170090838813.
+    El total de inversiones indirectas de FFMM en nuestra empresa es 0.0.
+    El grado de concentración en las inversiones, medido según el IHH, es 0.03583961217544075
+    Los 3 fondos con mayores inversiones son 8957, 8125, 9489
+    

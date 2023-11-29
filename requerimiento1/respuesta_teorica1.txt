@@ -1,0 +1,5 @@
+Para mejorar la calidad de la información reportada, podríamos implementar varias validaciones de datos. Los 
+chequeos automatizados podrían incluir la verificación de formatos de fecha correctos, la verificación de los
+RUT, mejorar la presentación para los RUT de extranjeros, etc. Además, podríamos usar librerías como Pandas o
+BeutifulSoup para hacer un análisis más profundo de los datos, o usar Requests para hacer un scraping más
+robusto.
